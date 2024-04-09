@@ -1,4 +1,4 @@
-#Add cumulative_sum of the total amount per country & region
+# Add cumulative_sum of the total amount per country & region
 
 WITH sales_numbers_main AS(
 

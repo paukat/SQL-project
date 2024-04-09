@@ -1,5 +1,5 @@
-#Add ‘sales_rank’ column that ranks rows from best to worst for each country 
-#based on total amount with tax earned each month. 
+# Add ‘sales_rank’ column that ranks rows from best to worst for each country 
+# based on total amount with tax earned each month. 
 
 WITH sales_numbers_main AS(
 
