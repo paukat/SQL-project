@@ -9,5 +9,5 @@ This project aims to extract and manipulate data of a fake shop "AdventureWorks"
 3. Addition of a ranking for countries based on total amount with tax earned each month.
 
 #### Files related to this project:
-* All 3 parts of SQL code;
+* All parts ([1st](https://github.com/paukat/SQL-project/blob/main/1st%20part.sql), [2nd](https://github.com/paukat/SQL-project/blob/main/2nd%20part.sql), [3rd](https://github.com/paukat/SQL-project/blob/main/3rd%20part.sql)) of SQL code;
 * An [Excel file](https://github.com/paukat/SQL-project/blob/main/SQL%20project%20results.xlsx) with the results of each part.
