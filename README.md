@@ -10,4 +10,4 @@ This project aims to extract and manipulate data of a fake shop "AdventureWorks"
 
 #### Files related to this project:
 * All 3 parts of SQL code;
-* Google sheets' file with the results of each part.
+* An [Excel file](https://github.com/paukat/SQL-project/blob/main/SQL%20project%20results.xlsx) with the results of each part.
